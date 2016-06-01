@@ -1,0 +1,1600 @@
+
+epoch number: 10000
+
+mean: 4301.47742282
+Target reached:N
+Best Distance: 4179.09294591
+Time:109.535000086
+
+
+epoch number: 10000
+
+mean: 4109.15417531
+Target reached:N
+Best Distance: 4043.85624589
+Time:109.443000078
+
+
+epoch number: 10000
+
+mean: 4044.65873004
+Target reached:N
+Best Distance: 4011.27993725
+Time:109.524999857
+
+
+epoch number: 10000
+
+mean: 4137.13838329
+Target reached:N
+Best Distance: 4095.51999766
+Time:109.464999914
+
+
+epoch number: 10000
+
+mean: 4199.36977858
+Target reached:N
+Best Distance: 4068.1288889
+Time:109.271000147
+
+
+epoch number: 10000
+
+mean: 4317.84169851
+Target reached:N
+Best Distance: 4283.58036921
+Time:109.16899991
+
+
+epoch number: 10000
+
+mean: 4325.2347485
+Target reached:N
+Best Distance: 4264.44971927
+Time:109.075000048
+
+
+epoch number: 10000
+
+mean: 4219.26304314
+Target reached:N
+Best Distance: 4189.31527893
+Time:109.161999941
+
+
+epoch number: 10000
+
+mean: 4248.32110347
+Target reached:N
+Best Distance: 4215.064478
+Time:109.123999834
+
+
+epoch number: 10000
+
+mean: 4063.79464974
+Target reached:N
+Best Distance: 3997.17756139
+Time:109.289999962
+
+
+epoch number: 10000
+
+mean: 4072.97039045
+Target reached:N
+Best Distance: 3989.37961056
+Time:109.328000069
+
+
+epoch number: 10000
+
+mean: 4495.27107928
+Target reached:N
+Best Distance: 4424.88708676
+Time:109.302999973
+
+
+epoch number: 10000
+
+mean: 4356.81244431
+Target reached:N
+Best Distance: 4298.56263766
+Time:109.042000055
+
+
+epoch number: 10000
+
+mean: 4109.86079991
+Target reached:N
+Best Distance: 4041.4885245
+Time:109.134000063
+
+
+epoch number: 10000
+
+mean: 4229.74337817
+Target reached:N
+Best Distance: 4109.64388432
+Time:109.169000149
+
+
+epoch number: 10000
+
+mean: 3940.05544674
+Target reached:N
+Best Distance: 3795.0491033
+Time:109.162000179
+
+
+epoch number: 10000
+
+mean: 4184.02305135
+Target reached:N
+Best Distance: 4049.54551885
+Time:109.144000053
+
+
+epoch number: 10000
+
+mean: 3813.43691788
+Target reached:N
+Best Distance: 3795.67187831
+Time:109.313999891
+
+
+epoch number: 10000
+
+mean: 4422.62326312
+Target reached:N
+Best Distance: 4260.8948919
+Time:113.994999886
+
+
+epoch number: 10000
+
+mean: 4082.73342635
+Target reached:N
+Best Distance: 3975.30263689
+Time:116.01699996
+
+
+epoch number: 10000
+
+mean: 3944.01849746
+Target reached:N
+Best Distance: 3878.65309724
+Time:117.520999908
+
+
+epoch number: 10000
+
+mean: 4052.92541108
+Target reached:N
+Best Distance: 4023.53742992
+Time:110.72300005
+
+
+epoch number: 10000
+
+mean: 4099.35047125
+Target reached:N
+Best Distance: 4036.03003745
+Time:113.864000082
+
+
+epoch number: 10000
+
+mean: 4124.04562172
+Target reached:N
+Best Distance: 4068.15183623
+Time:117.092999935
+
+
+epoch number: 10000
+
+mean: 4029.00035456
+Target reached:N
+Best Distance: 3893.11133453
+Time:109.713000059
+
+
+epoch number: 10000
+
+mean: 4311.23716381
+Target reached:N
+Best Distance: 4217.34398922
+Time:109.727999926
+
+
+epoch number: 10000
+
+mean: 4301.67655815
+Target reached:N
+Best Distance: 4249.73733885
+Time:111.144000053
+
+
+epoch number: 10000
+
+mean: 4065.57789163
+Target reached:N
+Best Distance: 3991.51694052
+Time:118.393000126
+
+
+epoch number: 10000
+
+mean: 4165.7063137
+Target reached:N
+Best Distance: 4082.50595515
+Time:114.950999975
+
+
+epoch number: 10000
+
+mean: 4404.99303318
+Target reached:N
+Best Distance: 4349.51126365
+Time:116.667000055
+
+
+epoch number: 10000
+
+mean: 4468.39313559
+Target reached:N
+Best Distance: 4339.72940401
+Time:114.869000196
+
+
+epoch number: 10000
+
+mean: 3955.90851504
+Target reached:N
+Best Distance: 3844.65085186
+Time:119.125999928
+
+
+epoch number: 10000
+
+mean: 4128.19851264
+Target reached:N
+Best Distance: 4073.69911512
+Time:110.453999996
+
+
+epoch number: 10000
+
+mean: 4099.05260665
+Target reached:N
+Best Distance: 4032.93108517
+Time:109.171000004
+
+
+epoch number: 10000
+
+mean: 4103.63032357
+Target reached:N
+Best Distance: 4054.97582957
+Time:109.136000156
+
+
+epoch number: 10000
+
+mean: 3997.89233214
+Target reached:N
+Best Distance: 3947.79758594
+Time:109.237999916
+
+
+epoch number: 10000
+
+mean: 3999.22389778
+Target reached:N
+Best Distance: 3899.38804719
+Time:109.18599987
+
+
+epoch number: 10000
+
+mean: 4354.48680309
+Target reached:N
+Best Distance: 4291.18205435
+Time:109.031000137
+
+
+epoch number: 10000
+
+mean: 4367.93394588
+Target reached:N
+Best Distance: 4329.82436912
+Time:109.246000051
+
+
+epoch number: 10000
+
+mean: 4175.9935141
+Target reached:N
+Best Distance: 4033.06131239
+Time:109.212000132
+
+
+epoch number: 10000
+
+mean: 4353.99834953
+Target reached:N
+Best Distance: 4191.2691202
+Time:109.144999981
+
+
+epoch number: 10000
+
+mean: 4228.78250201
+Target reached:N
+Best Distance: 4143.23000147
+Time:109.604000092
+
+
+epoch number: 10000
+
+mean: 4372.10054962
+Target reached:N
+Best Distance: 4267.39156317
+Time:109.313999891
+
+
+epoch number: 10000
+
+mean: 3996.17279285
+Target reached:N
+Best Distance: 3939.78993974
+Time:109.177999973
+
+
+epoch number: 10000
+
+mean: 4033.96895152
+Target reached:N
+Best Distance: 3975.62631156
+Time:109.234999895
+
+
+epoch number: 10000
+
+mean: 4190.06072067
+Target reached:N
+Best Distance: 4136.23598999
+Time:114.54399991
+
+
+epoch number: 10000
+
+mean: 4374.09475314
+Target reached:N
+Best Distance: 4289.43996989
+Time:112.433000088
+
+
+epoch number: 10000
+
+mean: 4158.20990338
+Target reached:N
+Best Distance: 4116.87660247
+Time:111.687999964
+
+
+epoch number: 10000
+
+mean: 4214.37600465
+Target reached:N
+Best Distance: 4110.84350463
+Time:109.556999922
+
+
+epoch number: 10000
+
+mean: 4143.33021723
+Target reached:N
+Best Distance: 4105.15151479
+Time:114.504999876
+
+
+epoch number: 10000
+
+mean: 3973.18999201
+Target reached:N
+Best Distance: 3933.65722564
+Time:113.160000086
+
+
+epoch number: 10000
+
+mean: 4204.74246614
+Target reached:N
+Best Distance: 4130.90496976
+Time:114.654000044
+
+
+epoch number: 10000
+
+mean: 4175.2211676
+Target reached:N
+Best Distance: 4169.40975729
+Time:128.828999996
+
+
+epoch number: 10000
+
+mean: 4323.28127771
+Target reached:N
+Best Distance: 4254.23334604
+Time:117.650000095
+
+
+epoch number: 10000
+
+mean: 4258.1655904
+Target reached:N
+Best Distance: 4202.10073897
+Time:124.059000015
+
+
+epoch number: 10000
+
+mean: 4097.08999791
+Target reached:N
+Best Distance: 4070.19141668
+Time:123.631000042
+
+
+epoch number: 10000
+
+mean: 4162.47050077
+Target reached:N
+Best Distance: 4116.65046073
+Time:122.450999975
+
+
+epoch number: 10000
+
+mean: 4129.724057
+Target reached:N
+Best Distance: 4089.7880481
+Time:124.75
+
+
+epoch number: 10000
+
+mean: 4244.48070548
+Target reached:N
+Best Distance: 4177.72310062
+Time:129.118999958
+
+
+epoch number: 10000
+
+mean: 4153.06130869
+Target reached:N
+Best Distance: 4002.49530014
+Time:111.75999999
+
+
+epoch number: 10000
+
+mean: 4413.61519299
+Target reached:N
+Best Distance: 4331.75696264
+Time:110.392000198
+
+
+epoch number: 10000
+
+mean: 4101.11774894
+Target reached:N
+Best Distance: 3966.27062919
+Time:110.616000175
+
+
+epoch number: 10000
+
+mean: 4339.76834209
+Target reached:N
+Best Distance: 4288.20662971
+Time:110.585999966
+
+
+epoch number: 10000
+
+mean: 4152.97608249
+Target reached:N
+Best Distance: 4139.5709165
+Time:110.347999811
+
+
+epoch number: 10000
+
+mean: 4220.84244237
+Target reached:N
+Best Distance: 4114.24581294
+Time:110.613999844
+
+
+epoch number: 10000
+
+mean: 4305.92144547
+Target reached:N
+Best Distance: 4258.85353581
+Time:110.075000048
+
+
+epoch number: 10000
+
+mean: 4359.39702261
+Target reached:N
+Best Distance: 4168.97561244
+Time:110.325000048
+
+
+epoch number: 10000
+
+mean: 4093.77760577
+Target reached:N
+Best Distance: 4010.24939388
+Time:110.57400012
+
+
+epoch number: 10000
+
+mean: 4138.490786
+Target reached:N
+Best Distance: 4084.02798561
+Time:110.431999922
+
+
+epoch number: 10000
+
+mean: 4249.25488429
+Target reached:N
+Best Distance: 4234.44701645
+Time:110.510999918
+
+
+epoch number: 10000
+
+mean: 4271.42924355
+Target reached:N
+Best Distance: 4210.59253375
+Time:110.552999973
+
+
+epoch number: 10000
+
+mean: 4126.27774746
+Target reached:N
+Best Distance: 4092.2424682
+Time:110.25999999
+
+
+epoch number: 10000
+
+mean: 4155.65832824
+Target reached:N
+Best Distance: 4117.09075746
+Time:110.286000013
+
+
+epoch number: 10000
+
+mean: 3968.99187144
+Target reached:N
+Best Distance: 3873.567582
+Time:110.151000023
+
+
+epoch number: 10000
+
+mean: 4299.95795328
+Target reached:N
+Best Distance: 4195.72326178
+Time:110.085999966
+
+
+epoch number: 10000
+
+mean: 4304.70367737
+Target reached:N
+Best Distance: 4288.87669392
+Time:110.306999922
+
+
+epoch number: 10000
+
+mean: 4329.63883858
+Target reached:N
+Best Distance: 4275.24403267
+Time:111.122999907
+
+
+epoch number: 10000
+
+mean: 4070.65727193
+Target reached:N
+Best Distance: 3992.99883299
+Time:110.50999999
+
+
+epoch number: 10000
+
+mean: 4340.84413692
+Target reached:N
+Best Distance: 4262.08792872
+Time:110.605000019
+
+
+epoch number: 10000
+
+mean: 4199.82014278
+Target reached:N
+Best Distance: 4157.20013572
+Time:110.40899992
+
+
+epoch number: 10000
+
+mean: 4126.59174452
+Target reached:N
+Best Distance: 4073.76830225
+Time:110.75999999
+
+
+epoch number: 10000
+
+mean: 4296.14995468
+Target reached:N
+Best Distance: 4252.41883124
+Time:110.612999916
+
+
+epoch number: 10000
+
+mean: 4275.60870641
+Target reached:N
+Best Distance: 4230.49368532
+Time:110.161999941
+
+
+epoch number: 10000
+
+mean: 4088.11995645
+Target reached:N
+Best Distance: 4068.85943227
+Time:109.993000031
+
+
+epoch number: 10000
+
+mean: 4182.49961389
+Target reached:N
+Best Distance: 4157.2798267
+Time:110.436000109
+
+
+epoch number: 10000
+
+mean: 4415.66444209
+Target reached:N
+Best Distance: 4300.29657933
+Time:110.457000017
+
+
+epoch number: 10000
+
+mean: 4236.61043527
+Target reached:N
+Best Distance: 4217.68461675
+Time:110.641000032
+
+
+epoch number: 10000
+
+mean: 4149.93499039
+Target reached:N
+Best Distance: 4125.87829503
+Time:110.322000027
+
+
+epoch number: 10000
+
+mean: 4262.41353491
+Target reached:N
+Best Distance: 4183.81571393
+Time:110.382999897
+
+
+epoch number: 10000
+
+mean: 4102.93337819
+Target reached:N
+Best Distance: 4000.05847229
+Time:110.967999935
+
+
+epoch number: 10000
+
+mean: 4178.52261103
+Target reached:N
+Best Distance: 4157.41323329
+Time:110.410000086
+
+
+epoch number: 10000
+
+mean: 4500.61969228
+Target reached:N
+Best Distance: 4360.58334739
+Time:110.55099988
+
+
+epoch number: 10000
+
+mean: 4285.56849858
+Target reached:N
+Best Distance: 4211.41545355
+Time:110.375999928
+
+
+epoch number: 10000
+
+mean: 4083.21287863
+Target reached:N
+Best Distance: 3979.02922463
+Time:110.076999903
+
+
+epoch number: 10000
+
+mean: 3987.02902282
+Target reached:N
+Best Distance: 3926.57291552
+Time:110.401000023
+
+
+epoch number: 10000
+
+mean: 4099.8972039
+Target reached:N
+Best Distance: 3940.99430302
+Time:110.054000139
+
+
+epoch number: 10000
+
+mean: 4024.75624792
+Target reached:N
+Best Distance: 3971.44454026
+Time:110.121999979
+
+
+epoch number: 10000
+
+mean: 4310.63275198
+Target reached:N
+Best Distance: 4103.25190097
+Time:110.759000063
+
+
+epoch number: 10000
+
+mean: 4321.51411751
+Target reached:N
+Best Distance: 4256.49055892
+Time:110.157999992
+
+
+epoch number: 10000
+
+mean: 4270.92300413
+Target reached:N
+Best Distance: 4044.29441336
+Time:122.409000158
+
+
+epoch number: 10000
+
+mean: 4128.14421705
+Target reached:N
+Best Distance: 4098.81657534
+Time:112.412000179
+
+
+epoch number: 10000
+
+mean: 4380.76757517
+Target reached:N
+Best Distance: 4287.8808255
+Time:120.840000153
+
+
+epoch number: 10000
+
+mean: 4223.20285929
+Target reached:N
+Best Distance: 4004.65349591
+Time:121.428999901
+
+
+epoch number: 10000
+
+mean: 3972.82695026
+Target reached:N
+Best Distance: 3880.44271397
+Time:109.782000065
+
+
+epoch number: 10000
+
+mean: 4056.7391561
+Target reached:N
+Best Distance: 3939.91164358
+Time:112.078999996
+
+
+epoch number: 10000
+
+mean: 4165.58183167
+Target reached:N
+Best Distance: 4079.45686252
+Time:112.421000004
+
+
+epoch number: 10000
+
+mean: 4176.11594886
+Target reached:N
+Best Distance: 4063.65318108
+Time:110.160000086
+
+
+epoch number: 10000
+
+mean: 3930.48902361
+Target reached:N
+Best Distance: 3862.45328641
+Time:109.670000076
+
+
+epoch number: 10000
+
+mean: 4176.28660936
+Target reached:N
+Best Distance: 4145.55710587
+Time:109.789999962
+
+
+epoch number: 10000
+
+mean: 4252.91709305
+Target reached:N
+Best Distance: 4060.88799487
+Time:110.787999868
+
+
+epoch number: 10000
+
+mean: 4055.10269794
+Target reached:N
+Best Distance: 3991.7837563
+Time:109.773999929
+
+
+epoch number: 10000
+
+mean: 4136.63143302
+Target reached:N
+Best Distance: 4068.78200314
+Time:109.395999908
+
+
+epoch number: 10000
+
+mean: 4210.86866178
+Target reached:N
+Best Distance: 4119.09474594
+Time:112.444999933
+
+
+epoch number: 10000
+
+mean: 4320.3726304
+Target reached:N
+Best Distance: 4231.68461095
+Time:110.05099988
+
+
+epoch number: 10000
+
+mean: 4265.85460847
+Target reached:N
+Best Distance: 4135.81868432
+Time:110.388000011
+
+
+epoch number: 10000
+
+mean: 4057.54512054
+Target reached:N
+Best Distance: 4020.25539086
+Time:109.920000076
+
+
+epoch number: 10000
+
+mean: 4116.55439206
+Target reached:N
+Best Distance: 4026.79235509
+Time:112.477999926
+
+
+epoch number: 10000
+
+mean: 4356.70542255
+Target reached:N
+Best Distance: 4319.22971988
+Time:115.468999863
+
+
+epoch number: 10000
+
+mean: 4180.13237172
+Target reached:N
+Best Distance: 4110.08571368
+Time:112.128999949
+
+
+epoch number: 10000
+
+mean: 4133.20766611
+Target reached:N
+Best Distance: 4061.54018071
+Time:112.46600008
+
+
+epoch number: 10000
+
+mean: 4412.96321009
+Target reached:N
+Best Distance: 4345.82932841
+Time:112.911000013
+
+
+epoch number: 10000
+
+mean: 4007.76865849
+Target reached:N
+Best Distance: 3952.60705369
+Time:111.228999853
+
+
+epoch number: 10000
+
+mean: 4271.56045479
+Target reached:N
+Best Distance: 4199.21676483
+Time:110.490999937
+
+
+epoch number: 10000
+
+mean: 4195.50750567
+Target reached:N
+Best Distance: 4092.04107381
+Time:109.917999983
+
+
+epoch number: 10000
+
+mean: 4277.28963368
+Target reached:N
+Best Distance: 4118.52777437
+Time:109.566999912
+
+
+epoch number: 10000
+
+mean: 4171.42419606
+Target reached:N
+Best Distance: 4110.3350792
+Time:112.292999983
+
+
+epoch number: 10000
+
+mean: 4312.0427773
+Target reached:N
+Best Distance: 4283.73392528
+Time:111.886000156
+
+
+epoch number: 10000
+
+mean: 4333.4103789
+Target reached:N
+Best Distance: 4276.49369599
+Time:112.253999949
+
+
+epoch number: 10000
+
+mean: 4259.20413961
+Target reached:N
+Best Distance: 4213.59678535
+Time:109.24000001
+
+
+epoch number: 10000
+
+mean: 3962.6188666
+Target reached:N
+Best Distance: 3907.47885757
+Time:109.487999916
+
+
+epoch number: 10000
+
+mean: 4082.48088625
+Target reached:N
+Best Distance: 4034.74889462
+Time:109.284999847
+
+
+epoch number: 10000
+
+mean: 4308.44276214
+Target reached:N
+Best Distance: 4257.08984535
+Time:111.39199996
+
+
+epoch number: 10000
+
+mean: 4042.2908634
+Target reached:N
+Best Distance: 3992.41136666
+Time:112.924000025
+
+
+epoch number: 10000
+
+mean: 4151.30476442
+Target reached:N
+Best Distance: 4058.71027916
+Time:110.688000202
+
+
+epoch number: 10000
+
+mean: 4081.72300047
+Target reached:N
+Best Distance: 4011.07977793
+Time:113.450000048
+
+
+epoch number: 10000
+
+mean: 4202.42840244
+Target reached:N
+Best Distance: 4151.78362381
+Time:111.346999884
+
+
+epoch number: 10000
+
+mean: 4301.79756678
+Target reached:N
+Best Distance: 4278.91115305
+Time:111.94900012
+
+
+epoch number: 10000
+
+mean: 4130.40745772
+Target reached:N
+Best Distance: 4111.40244342
+Time:110.904999971
+
+
+epoch number: 10000
+
+mean: 4153.069429
+Target reached:N
+Best Distance: 4080.79462908
+Time:111.420000076
+
+
+epoch number: 10000
+
+mean: 4116.41657937
+Target reached:N
+Best Distance: 4050.32992094
+Time:110.285000086
+
+
+epoch number: 10000
+
+mean: 4181.91367322
+Target reached:N
+Best Distance: 4128.72700078
+Time:109.950000048
+
+
+epoch number: 10000
+
+mean: 4295.25344192
+Target reached:N
+Best Distance: 4225.93765022
+Time:110.836999893
+
+
+epoch number: 10000
+
+mean: 4426.4024407
+Target reached:N
+Best Distance: 4287.13297572
+Time:111.353999853
+
+
+epoch number: 10000
+
+mean: 4336.91192071
+Target reached:N
+Best Distance: 4201.07306312
+Time:113.721999884
+
+
+epoch number: 10000
+
+mean: 4395.57913621
+Target reached:N
+Best Distance: 4330.6766639
+Time:112.092000008
+
+
+epoch number: 10000
+
+mean: 4152.80432117
+Target reached:N
+Best Distance: 4093.67097683
+Time:111.898000002
+
+
+epoch number: 10000
+
+mean: 4181.76609039
+Target reached:N
+Best Distance: 4143.54120887
+Time:113.260999918
+
+
+epoch number: 10000
+
+mean: 4125.96773981
+Target reached:N
+Best Distance: 4064.89999126
+Time:110.873000145
+
+
+epoch number: 10000
+
+mean: 4082.84834084
+Target reached:N
+Best Distance: 3974.58284839
+Time:111.933000088
+
+
+epoch number: 10000
+
+mean: 4121.36891652
+Target reached:N
+Best Distance: 4090.48108812
+Time:112.135999918
+
+
+epoch number: 10000
+
+mean: 4023.32860421
+Target reached:N
+Best Distance: 3990.17048167
+Time:110.447999954
+
+
+epoch number: 10000
+
+mean: 4169.46053224
+Target reached:N
+Best Distance: 4118.37733189
+Time:111.687999964
+
+
+epoch number: 10000
+
+mean: 4318.68537687
+Target reached:N
+Best Distance: 4254.02412427
+Time:111.42599988
+
+
+epoch number: 10000
+
+mean: 4229.24318342
+Target reached:N
+Best Distance: 4154.91833301
+Time:111.458999872
+
+
+epoch number: 10000
+
+mean: 4065.16650674
+Target reached:N
+Best Distance: 3980.63662274
+Time:116.523000002
+
+
+epoch number: 10000
+
+mean: 3683.70647407
+Target reached:N
+Best Distance: 3587.76299127
+Time:113.244999886
+
+
+epoch number: 10000
+
+mean: 4316.94180319
+Target reached:N
+Best Distance: 4247.28273037
+Time:113.892000198
+
+
+epoch number: 10000
+
+mean: 4267.31113331
+Target reached:N
+Best Distance: 4174.13525844
+Time:113.68200016
+
+
+epoch number: 10000
+
+mean: 4352.99662682
+Target reached:N
+Best Distance: 4278.74132167
+Time:111.930000067
+
+
+epoch number: 10000
+
+mean: 4342.04731683
+Target reached:N
+Best Distance: 4215.84171681
+Time:110.855999947
+
+
+epoch number: 10000
+
+mean: 4263.17146305
+Target reached:N
+Best Distance: 4204.86935695
+Time:112.026000023
+
+
+epoch number: 10000
+
+mean: 4165.13968025
+Target reached:N
+Best Distance: 4135.48238213
+Time:111.961999893
+
+
+epoch number: 10000
+
+mean: 3964.58403121
+Target reached:N
+Best Distance: 3911.46499474
+Time:111.052999973
+
+
+epoch number: 10000
+
+mean: 4349.10544778
+Target reached:N
+Best Distance: 4198.4144174
+Time:113.127000093
+
+
+epoch number: 10000
+
+mean: 4263.65627336
+Target reached:N
+Best Distance: 4188.77570337
+Time:111.906999826
+
+
+epoch number: 10000
+
+mean: 4401.43759768
+Target reached:N
+Best Distance: 4348.86181873
+Time:114.497999907
+
+
+epoch number: 10000
+
+mean: 4103.71888321
+Target reached:N
+Best Distance: 3965.14041193
+Time:109.342999935
+
+
+epoch number: 10000
+
+mean: 4504.58313641
+Target reached:N
+Best Distance: 4445.75436482
+Time:110.618000031
+
+
+epoch number: 10000
+
+mean: 4464.09433151
+Target reached:N
+Best Distance: 4444.84565815
+Time:109.914000034
+
+
+epoch number: 10000
+
+mean: 4112.84338673
+Target reached:N
+Best Distance: 4080.14978224
+Time:113.694999933
+
+
+epoch number: 10000
+
+mean: 4207.64748384
+Target reached:N
+Best Distance: 4105.1875641
+Time:112.015000105
+
+
+epoch number: 10000
+
+mean: 4474.01395664
+Target reached:N
+Best Distance: 4411.50850056
+Time:111.178999901
+
+
+epoch number: 10000
+
+mean: 4103.37711013
+Target reached:N
+Best Distance: 3989.43416426
+Time:110.677000046
+
+
+epoch number: 10000
+
+mean: 4356.37936642
+Target reached:N
+Best Distance: 4256.60261073
+Time:109.568000078
+
+
+epoch number: 10000
+
+mean: 4041.98797046
+Target reached:N
+Best Distance: 4008.43755539
+Time:109.319999933
+
+
+epoch number: 10000
+
+mean: 4080.119814
+Target reached:N
+Best Distance: 4014.35981121
+Time:108.974999905
+
+
+epoch number: 10000
+
+mean: 4459.58070192
+Target reached:N
+Best Distance: 4306.59290977
+Time:108.947000027
+
+
+epoch number: 10000
+
+mean: 4279.99772443
+Target reached:N
+Best Distance: 4235.43081151
+Time:109.277999878
+
+
+epoch number: 10000
+
+mean: 4194.56561405
+Target reached:N
+Best Distance: 4138.46368904
+Time:109.041000128
+
+
+epoch number: 10000
+
+mean: 4445.5906216
+Target reached:N
+Best Distance: 4391.55733594
+Time:108.967999935
+
+
+epoch number: 10000
+
+mean: 4487.96311834
+Target reached:N
+Best Distance: 4476.64393745
+Time:109.029000044
+
+
+epoch number: 10000
+
+mean: 4127.89889529
+Target reached:N
+Best Distance: 4060.71677934
+Time:108.953999996
+
+
+epoch number: 10000
+
+mean: 4370.71674894
+Target reached:N
+Best Distance: 4212.28072099
+Time:108.98300004
+
+
+epoch number: 10000
+
+mean: 4132.32229687
+Target reached:N
+Best Distance: 4067.77702479
+Time:109.282000065
+
+
+epoch number: 10000
+
+mean: 4089.55506187
+Target reached:N
+Best Distance: 4045.25271851
+Time:109.052000046
+
+
+epoch number: 10000
+
+mean: 4020.36103781
+Target reached:N
+Best Distance: 4007.56972771
+Time:109.06099987
+
+
+epoch number: 10000
+
+mean: 4369.31031816
+Target reached:N
+Best Distance: 4337.28403371
+Time:109.052999973
+
+
+epoch number: 10000
+
+mean: 4128.36239748
+Target reached:N
+Best Distance: 4063.12450675
+Time:108.911999941
+
+
+epoch number: 10000
+
+mean: 4230.66788267
+Target reached:N
+Best Distance: 4135.11893569
+Time:109.078000069
+
+
+epoch number: 10000
+
+mean: 4238.16860231
+Target reached:N
+Best Distance: 4096.77741351
+Time:108.91899991
+
+
+epoch number: 10000
+
+mean: 4380.9760832
+Target reached:N
+Best Distance: 4250.42570731
+Time:108.976000071
+
+
+epoch number: 10000
+
+mean: 4227.96298864
+Target reached:N
+Best Distance: 4194.05222551
+Time:110.088000059
+
+
+epoch number: 10000
+
+mean: 4204.50792798
+Target reached:N
+Best Distance: 4158.35893133
+Time:108.950999975
+
+
+epoch number: 10000
+
+mean: 4094.41628456
+Target reached:N
+Best Distance: 4039.87759826
+Time:108.867000103
+
+
+epoch number: 10000
+
+mean: 3956.07250302
+Target reached:N
+Best Distance: 3891.19648211
+Time:109.155999899
+
+
+epoch number: 10000
+
+mean: 4379.85645624
+Target reached:N
+Best Distance: 4269.4170311
+Time:108.968000174
+
+
+epoch number: 10000
+
+mean: 4470.12291822
+Target reached:N
+Best Distance: 4413.29057782
+Time:109.00999999
+
+
+epoch number: 10000
+
+mean: 4304.84103807
+Target reached:N
+Best Distance: 4261.93956981
+Time:109.097000122
+
+
+epoch number: 10000
+
+mean: 3937.40751225
+Target reached:N
+Best Distance: 3908.88224879
+Time:109.122999907
+
+
+epoch number: 10000
+
+mean: 4084.91748126
+Target reached:N
+Best Distance: 4052.03886291
+Time:108.996999979
+

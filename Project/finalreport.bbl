@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+
+\bibitem{Afaq2011}
+H.~Afaq and S.~Saini.
+\newblock On the solutions to the travelling salesman problem using nature
+  inspired computing techniques.
+\newblock {\em IJCSI International Journal of Computer Science Issues},
+  8(4):326--334, 2011.
+
+\bibitem{Dorigo1996}
+M.~Dorigo, V.~Maniezzo, and A.~Colorni.
+\newblock Ant system: optimization by a colony of cooperating agents.
+\newblock {\em Systems, Man, and Cybernetics, Part B: Cybernetics, IEEE
+  Transactions on}, 26(1):29--41, 1996.
+
+\bibitem{Gee1995}
+A.~Gee and R.~Prager.
+\newblock Limitations of neural networks for solving traveling salesman
+  problems.
+\newblock {\em Neural Networks, IEEE Transactions on}, 6(1):280--282, 1995.
+
+\bibitem{Kennedy1995}
+J.~Kennedy and R.~Eberhart.
+\newblock Particle swarm optimization.
+\newblock In {\em Neural Networks, 1995. Proceedings., IEEE International
+  Conference on}, volume~4, pages 1942--1948vol.4, 1995.
+
+\bibitem{Kirkpatrick1983}
+S.~Kirkpatrick, C.~D. Gelatt, and M.~P. Vecchi.
+\newblock Optimization by simulated annealing.
+\newblock {\em Science}, 220(4598):671--680, 1983.
+
+\bibitem{Metropolis1953}
+N.~Metropolis, A.~W. Rosenbluth, M.~N. Rosenbluth, A.~H. Teller, and E.~Teller.
+\newblock Equation of state calculations by fast computing machines.
+\newblock {\em The Journal of Chemical Physics}, 21(6):1087--1092, 1953.
+
+\bibitem{Ray2004}
+S.~Ray, S.~Bandyopadhyay, and S.~Pal.
+\newblock New operators of genetic algorithms for traveling salesman problem.
+\newblock In {\em Pattern Recognition, 2004. ICPR 2004. Proceedings of the
+  17\textsuperscript{th} International Conference on}, volume~2, pages
+  497--500Vol.2, 2004.
+
+\bibitem{Russell2003}
+S.~J. Russell and P.~Norvig.
+\newblock {\em Artificial Intelligence: A Modern Approach}.
+\newblock Pearson Education, 2 edition, 2003.
+
+\bibitem{Saffarzadeh2010}
+V.~M. Saffarzadeh, P.~Jafarzadeh, and M.~Mazloom.
+\newblock A hybrid approach using particle swarm optimization and simulated
+  annealing for n-queen problem.
+\newblock {\em Journal of World Academy of Science, Engineering and
+  Technology}, 67:974--978, 2010.
+
+\bibitem{Song2003}
+C.-H. Song, K.~Lee, and W.~D. Lee.
+\newblock Extended simulated annealing for augmented tsp and multi-salesmen
+  tsp.
+\newblock In {\em Neural Networks, 2003. Proceedings of the International Joint
+  Conference on}, volume~3, pages 2340--2343vol.3, 2003.
+
+\bibitem{Zhong2007}
+W.-L. Zhong, J.~Zhang, and W.-N. Chen.
+\newblock A novel discrete particle swarm optimization to solve traveling
+  salesman problem.
+\newblock In {\em Evolutionary Computation, 2007. CEC 2007. IEEE Congress on},
+  pages 3283--3287, 2007.
+
+\end{thebibliography}
